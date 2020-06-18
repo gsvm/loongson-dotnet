@@ -26,6 +26,8 @@ We encourage contributions, both issues and PRs. All contributions and suggestio
 
 [Who is Loongson](http://www.loongson.cn/)
 
+[Open-sourcing CoreCLR MIPS64 Port](https://github.com/dotnet/runtime/issues/38069)
+
 [Guide for porting .NET to a new processor architecture](https://github.com/dotnet/runtime/blob/master/docs/design/coreclr/botr/guide-for-porting.md)
 
 ["arch-mips64" label](https://github.com/dotnet/runtime/labels/arch-mips64)
