@@ -10,12 +10,12 @@ This repository may be temporary, but may exist for a long time. Our hope is to 
 
 ## Current Status
 
-We are debugging priority1 test cases in CoreCLR. More than 9500 tests have been passed according to our test method.
+Nearly all priority1 tests in [CoreCLR](https://github.com/gsvm/coreclr) have been passed according to our test method. We are debugging test cases with various parameters. 
 
 
 ## How to Use MIPS Port of .NET Core
 
-It has not yet reached the state of use. We will release Early-Access Builds of .NET Core runtime later.
+It has not yet reached the state of use. We released [Early-Access (EA) builds](https://github.com/gsvm/loongson-dotnet/releases)  of .NET Core MIPS64 Port. Early Access (EA) Build is not for production use. EA build has many bugs and is very unstable.
 
 
 ## How to Engage, Contribute and Provide Feedback
@@ -31,3 +31,5 @@ We encourage contributions, both issues and PRs. All contributions and suggestio
 [Guide for porting .NET to a new processor architecture](https://github.com/dotnet/runtime/blob/master/docs/design/coreclr/botr/guide-for-porting.md)
 
 ["arch-mips64" label](https://github.com/dotnet/runtime/labels/arch-mips64)
+
+[Debugging CoreCLR on Loongson (Chinese)](http://ask.loongnix.org/?/article/689)
