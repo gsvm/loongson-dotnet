@@ -15,7 +15,7 @@ Nearly all priority1 tests in [CoreCLR](https://github.com/gsvm/coreclr) have be
 
 ## How to Use MIPS Port of .NET Core
 
-It has not yet reached the state of use. We released [Early-Access (EA) builds](https://github.com/gsvm/loongson-dotnet/releases)  of .NET Core MIPS64 Port. Early Access (EA) Build is not for production use. EA build has many bugs and is very unstable.
+It has not yet reached the state of use. We released [Early-Access (EA) builds](https://github.com/gsvm/loongson-dotnet/releases)  of .NET Core MIPS64 Port. EA Build is not for production use. EA build has many bugs and is very unstable.
 
 
 ## How to Engage, Contribute and Provide Feedback
