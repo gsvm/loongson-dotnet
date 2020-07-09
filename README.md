@@ -20,7 +20,7 @@ It has not yet reached the state of use. We released [Early-Access (EA) builds](
 
 ## How to Engage, Contribute and Provide Feedback
 
-We encourage contributions, both issues and PRs. All contributions and suggestions are greatly welcomed. If you have any problems or want any support, feel free to file a issue or contact us via email to aoqi@loongson.cn.
+We encourage contributions, both issues and PRs. All contributions and suggestions are greatly welcomed. If you have any problems or want any support, feel free to file an issue or contact us via email to aoqi@loongson.cn.
 
 ## Useful Link
 
