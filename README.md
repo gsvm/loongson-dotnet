@@ -3,14 +3,14 @@
 
 The [gsvm/loongson-dotnet](https://github.com/gsvm/loongson-dotnet) repository is a good starting point for Loongson's port of .NET Core.
 
-We hope to implement a release version (3.0 or 3.1) of Loongson/MIPS Port first, then upgrade to upstream [dotnet/runtime](https://github.com/dotnet/runtime) .
+We hope to implement .NET Core 3.1 of Loongson/MIPS Port first, then upgrade to upstream [dotnet/runtime](https://github.com/dotnet/runtime) .
 
 This repository may be temporary, but may exist for a long time. Our hope is to merge into upstream.
 
 
 ## Current Status
 
-Nearly all priority1 tests in [CoreCLR](https://github.com/gsvm/coreclr) have been passed according to our test method. We are debugging test cases with various parameters. 
+Nearly all tests in [CoreCLR](https://github.com/gsvm/coreclr) have been passed. We are debugging tests in [CoreFX](https://github.com/gsvm/corefx) and [ASP.NET Core](https://github.com/dotnet/aspnetcore), and tests with various parameters. 
 
 
 ## How to Use MIPS Port of .NET Core
