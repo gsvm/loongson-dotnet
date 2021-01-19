@@ -15,7 +15,7 @@ Nearly all tests in [CoreCLR](https://github.com/gsvm/coreclr) have been passed.
 
 ## How to Use MIPS Port of .NET Core
 
-It has reached Release Candidate Phase. We have released [Release Candidate (RC)](https://github.com/gsvm/loongson-dotnet/releases)  of .NET Core MIPS64 Port.
+We have released [.NET Core MIPS64 Port](http://www.loongnix.org/index.php/dotnet).
 
 
 ## How to Engage, Contribute and Provide Feedback
